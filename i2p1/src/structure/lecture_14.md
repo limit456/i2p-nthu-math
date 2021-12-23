@@ -9,8 +9,8 @@
 ``` console
 $ g++ -g test.cpp && ./a.out
 Input a float number (a) in (-)xxx.xxx(e|E)(-)(xxx): -123.456e3
-456.789e4(a) = -123456
-Input a float number (b) in (-)xxx.xxx(e|E)(-)(xxx): 
+(a) = -123456
+Input a float number (b) in (-)xxx.xxx(e|E)(-)(xxx): 456.789e4
 (b) = 456789e1
 (a) + (b) = 444444e1
 (a) - (b) = 469134e1
