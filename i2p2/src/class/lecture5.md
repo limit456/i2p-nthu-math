@@ -27,7 +27,7 @@ paginate: true
   - Example: Vector (again)
   - Example: Integer Calculator (again)
   - Example: Fixed Point Number
-* Pratices
+* Practices
 
 ## Interaction with other classes
 
@@ -492,8 +492,8 @@ A Fixed Point Number Calculator:
 - need to be initialized
 - need to be able to get all information
 
-## Pratices
+## Practices
 
-- Pratice 1: 參考 `Triangle` class, 如果需要支援多維度的座標系以及四邊形等其他圖形需要如何修改?
-- Pratice 2: 參考 `Vector` class, 如果需要支援多維度的座標系上、或是轉換 basis 為其他 vector 要如何修改?
-- Pratice 3: 參考 `Fp_Calc` class, 如果需要支援乘除法、超過 `Fixed_Point` 可儲存的範圍要如何設計相關的 member function?
+- Practice 1: 參考 `Triangle` class, 如果需要支援多維度的座標系以及四邊形等其他圖形需要如何修改?
+- Practice 2: 參考 `Vector` class, 如果需要支援多維度的座標系上、或是轉換 basis 為其他 vector 要如何修改?
+- Practice 3: 參考 `Fp_Calc` class, 如果需要支援乘除法、超過 `Fixed_Point` 可儲存的範圍要如何設計相關的 member function?
